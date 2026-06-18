@@ -47,7 +47,3 @@ using Pandas, OpenPyXL, and XlsxWriter.
 - 📚 Pursuing BSc Information Technology
 
 ---
-
-## 📊 GitHub Stats
-
-![Dilip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DILIP2453&show_icons=true&theme=blue-green)
